@@ -1,0 +1,14 @@
+mkdir - makes new directory
+touch - makes new file 
+pwd - shows where you are
+cd - means go back
+ls - show all the files
+vim - to edit file( "i" to type and ":wq" to exit) 
+cat - to show what is inside of the file
+cp - to copy the file or a directory
+mv - to move the file 
+rm - removes the file
+rm -rf - removes the directory
+banner - makes banners according to parameters you set
+say - makes the computer say what you want  
+/nfs/2018/y/ysystali/myProjects/First_Day/42.txt
